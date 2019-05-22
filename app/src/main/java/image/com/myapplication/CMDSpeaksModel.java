@@ -7,6 +7,7 @@ public class CMDSpeaksModel {
     private String con_id;
     private String con_file;
     private String con_data;
+    private String roll;
 
 
     public String getCont_url() {
